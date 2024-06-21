@@ -52,7 +52,7 @@ def main() -> None:
     csv_file = Path(args.csv_output).open("w")
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(["File to be analyzed", "Number of Topic", "Start", "End"])
-    for topic_file in target_file_paths:
+    for topic_file in sorted(target_file_paths):
         csv_writer.writerow(parse_timestamps(topic_file))
     csv_file.close()
 
