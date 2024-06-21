@@ -21,7 +21,7 @@ def parse_timestamps(file_path: Path) -> list:
 
     if not timestamps:
         print("No timestamps found.")
-        return
+        return [file_path.as_posix(), 0, 0, 0]
 
     first_timestamp = timestamps[0]
     last_timestamp = timestamps[-1]
