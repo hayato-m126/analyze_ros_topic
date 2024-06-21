@@ -1,0 +1,225 @@
+❯ ros2 topic echo /diagnostic/control_evaluator/metrics | grep "value: stop" -B 12
+1718899504.822656 [77]       ros2: determined eno1 (udp/10.0.55.137) as highest quality interface, selected for automatic interface.
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 313769294
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 413770975
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 513769854
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 613780004
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 713779403
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 813783507
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009523
+    nanosec: 913790393
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009524
+    nanosec: 13791383
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009638
+    nanosec: 615714445
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009638
+    nanosec: 715729746
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009638
+    nanosec: 815732690
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009638
+    nanosec: 915724677
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009639
+    nanosec: 15713592
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009639
+    nanosec: 115897491
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009639
+    nanosec: 215720467
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
+--
+header:
+  stamp:
+    sec: 1709009639
+    nanosec: 315729401
+  frame_id: ''
+status:
+- level: "\0"
+  name: 'autonomous_emergency_braking: aeb_emergency_stop'
+  message: ''
+  hardware_id: ''
+  values:
+  - key: decision
+    value: stop
